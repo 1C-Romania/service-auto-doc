@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to service-auto-doc's documentation!
-============================================
+Manual de utilizare 1C:Service auto
+===================================
 
 .. toctree::
    :maxdepth: 2
